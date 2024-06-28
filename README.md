@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa782&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa782" /> </p>
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huzaifa782](https://github.com/huzaifa782)
 
